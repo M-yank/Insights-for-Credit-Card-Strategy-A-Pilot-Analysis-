@@ -6,6 +6,7 @@ AtliQ Data Services learned about this initiative through an internal connection
 #Analyst Role
 Mitron Bank provided a sample dataset comprising 4,000 customers from five cities, detailing their online spending and other relevant attributes.
 The objective is to analyze the sample data and present key findings to Mitron Bank’s strategy team. This analysis will serve as a foundation for designing credit card offerings tailored to customer preferences and prevailing market trends.
+
 #Interactive Dashboard: [Link](https://app.powerbi.com/view?r=eyJrIjoiMmM4MjMzNWQtYjUyYS00MzlkLThkOTEtNGRlNWViYjQ5MTYwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=bfd813003697e464f9a4)
 
 
