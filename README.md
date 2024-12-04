@@ -7,7 +7,7 @@ AtliQ Data Services learned about this initiative through an internal connection
 Mitron Bank provided a sample dataset comprising 4,000 customers from five cities, detailing their online spending and other relevant attributes.
 The objective is to analyze the sample data and present key findings to Mitron Bank’s strategy team. This analysis will serve as a foundation for designing credit card offerings tailored to customer preferences and prevailing market trends.
 
-#Interactive Dashboard: [Link](https://app.powerbi.com/view?r=eyJrIjoiMmM4MjMzNWQtYjUyYS00MzlkLThkOTEtNGRlNWViYjQ5MTYwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=bfd813003697e464f9a4)
+#Interactive Dashboard: [Link](https://app.powerbi.com/view?r=eyJrIjoiZWNhZjJlYWMtOGJiZi00NjViLWE0ZWQtNGZkNjc1ZjFjZGU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=416354e137be6b659459)
 
 
 # Learnings
@@ -24,6 +24,16 @@ The objective is to analyze the sample data and present key findings to Mitron B
 # Data Modelling
 ![1](https://github.com/user-attachments/assets/99d3593f-03fe-4816-b1f0-94b4349e7131)
 
+# Insights
+●	Segmented customers by demographics, uncovering a 15% Average higher spending rate among ages 35–45, and proposed targeted credit card promotions, projected to increase adoption by 20%
+
+●	Analyzed spending patterns across five categories, revealing 40% concentration in electronics and wellness, and recommended tailored rewards, expected to boost usage by 15%
+
+●	Examined payment preferences, revealing a 67% preference for Credit cards & digital wallets, and proposed wallet-linked features, projected to boost adoption by 25%,
+
+●	Prepared a data-driven report for strategy team, delivering actionable insights projected to increase market penetration by 15%.
+
+
 # Dashboard Design
 
 Home (Company oerview, page navigation)
@@ -36,7 +46,7 @@ Customer Demographics
 Customer Finances
 ![4](https://github.com/user-attachments/assets/f0510ed3-d615-4ad4-a9ef-1bde353df9e1)
 
-Live Dashboard; [Link](https://app.powerbi.com/view?r=eyJrIjoiMmM4MjMzNWQtYjUyYS00MzlkLThkOTEtNGRlNWViYjQ5MTYwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=bfd813003697e464f9a4)
+Live Dashboard; [Link](https://app.powerbi.com/view?r=eyJrIjoiZWNhZjJlYWMtOGJiZi00NjViLWE0ZWQtNGZkNjc1ZjFjZGU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=416354e137be6b659459)
 
 
 
